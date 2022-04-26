@@ -1,4 +1,5 @@
 package telran.spring.calculator.service;
+//HW-56
 
 public interface CalculatorService {
 	double calculate(double[] operands);
